@@ -1,4 +1,4 @@
- PostgreSQL. Versions 9.3 and up are supported.
+# PostgreSQL. Versions 9.3 and up are supported.
 #
 # Install the pg driver:
 #   gem install pg
@@ -31,7 +31,7 @@ development:
   # To create additional roles in postgres see `$ createuser --help`.
   # When left blank, postgres will use the default role. This is
   # the same name as the operating system user running Rails.
-  #username: hello_rails_react
+  #username: booking_app_back_end
 
   # The password associated with the postgres role (username).
   #password:
